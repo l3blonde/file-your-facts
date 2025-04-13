@@ -38,5 +38,5 @@ FileYourFacts is a Progressive Web Application (PWA) for task management built w
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/todo-pwa.git
-   cd todo-pwa
+   git clone https://github.com/yourusername/file-your-facts.git
+   cd file-your-facts
